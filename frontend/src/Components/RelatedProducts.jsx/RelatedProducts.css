@@ -1,0 +1,23 @@
+.relatedproducts {
+  padding: 70px;
+  color: black;
+}
+
+.relatedproducts h1 {
+  margin-bottom: 20px;
+  text-align: center;
+  font-size: 50px;
+}
+
+.relatedproducts-item {
+  display: flex;
+  gap: 10px;
+  justify-content: center;
+}
+
+.relatedproducts-item img {
+  max-width: 100%; /* Ensure images take up the full width of the container */
+  height: auto;
+  border-radius: 10px;
+  margin-bottom: 10px;
+}

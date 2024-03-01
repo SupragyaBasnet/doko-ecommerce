@@ -1,0 +1,28 @@
+/* Add this CSS in your component or a separate CSS file */
+
+.login {
+  background-color: #0057b33e;
+  /* margin-top: 50px; */
+  /* gap: 40px; */
+}
+
+.form-group {
+  margin-bottom: 20px;
+}
+
+.form-label {
+  font-weight: bold;
+}
+
+.checkbox-label {
+  font-size: 14px;
+}
+.btn-primary {
+  background-color: #007bff;
+  border-color: #007bff;
+}
+
+.btn-primary:hover {
+  background-color: #0056b3;
+  border-color: #0056b3;
+}

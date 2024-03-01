@@ -1,0 +1,10 @@
+.breadcrumb {
+  background-color: transparent;
+  font-size: 20px;
+  font-weight: 600;
+  color: #5e5e5e;
+}
+
+.breadcrumb-item {
+  text-transform: capitalize;
+}

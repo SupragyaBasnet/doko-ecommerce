@@ -1,0 +1,28 @@
+.new-collections {
+  padding: 50px;
+  color: #333;
+  text-align: center;
+  font-size: 30px;
+  margin-bottom: 20px;
+}
+
+.new-collections h1 {
+  font-size: 28px;
+  margin-bottom: 20px;
+  font-weight: bold;
+}
+
+.collections {
+  gap: 20px; /* Add some gap between images */
+}
+
+.collections img {
+  max-width: 100%; /* Decrease the max-width to make images smaller */
+  height: auto;
+  border-radius: 10px;
+  margin-bottom: 10px;
+}
+
+.collections p {
+  font-size: 16px; /* Adjust the font size of the description */
+}

@@ -1,0 +1,73 @@
+/* Add Bootstrap classes to enhance responsiveness and styling */
+.footer {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 20px;
+  padding: 20px;
+  background-color: #f8f9fa; /* Add a background color */
+}
+
+.footer-logo {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 10px;
+  margin-bottom: 20px;
+}
+
+.footer-logo p {
+  color: #383838;
+  font-size: 32px;
+  font-weight: 700;
+  margin: 0;
+}
+
+/* Use Bootstrap classes for the list */
+.footer-links {
+  display: flex;
+  list-style: none;
+  gap: 20px;
+  color: #252525;
+  font-size: 18px;
+  margin: 0;
+  padding: 0;
+}
+
+.footer-links li {
+  cursor: pointer;
+}
+
+/* Use Bootstrap classes for the social icons */
+.footer-social-icon {
+  display: flex;
+  gap: 20px;
+}
+
+.footer-icons-container {
+  padding: 10px;
+  background: #fff;
+  border: 1px solid #ebebeb;
+  border-radius: 50%;
+  width: 53px;
+}
+
+.footer-copyright {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 20px;
+  width: 100%;
+  color: #1a1a1a;
+  font-size: 16px;
+}
+
+/* Use Bootstrap classes for the hr element */
+.footer-copyright hr {
+  width: 80%;
+  border: none;
+  border-radius: 5px;
+  height: 2px;
+  background: #c7c7c7;
+}

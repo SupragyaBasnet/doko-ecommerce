@@ -1,0 +1,32 @@
+.custom-carticon-product-icon {
+  height: 75px;
+}
+.delivery-address-container {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  margin-top: 20px; /* Adjust as needed */
+}
+
+.address-input {
+  margin-top: 5px; /* Adjust as needed */
+}
+.justify-content-end {
+  gap: 20px;
+}
+.delivery-address-container {
+  display: flex;
+  /* align-items: center; */
+  margin-top: 20px; /* Adjust as needed */
+}
+
+.delivery-address-container span {
+  margin-right: 140px; /* Adjust as needed */
+}
+
+.address-input {
+  margin-right: 80px; /* Adjust as needed */
+}
+.justify-content-end span {
+  text-align: center;
+}

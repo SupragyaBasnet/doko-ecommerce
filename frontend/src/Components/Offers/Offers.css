@@ -1,0 +1,30 @@
+.offers {
+  margin-top: 60px;
+  padding: 50px;
+  background: linear-gradient(180deg, #fde1ff, #e1ffea22 60%);
+  color: black;
+}
+
+.offers h1 {
+  font-size: 28px;
+  margin-bottom: 20px;
+  font-size: 50px;
+}
+
+.offers p {
+  font-size: 24px;
+  margin-bottom: 20px;
+}
+
+.offers button {
+  background-color: #ffcc00;
+  color: #333;
+  font-size: 20px;
+  cursor: pointer;
+  border-radius: 5px;
+  max-width: 200px;
+}
+
+.offers img {
+  /* width: 500px; */
+}

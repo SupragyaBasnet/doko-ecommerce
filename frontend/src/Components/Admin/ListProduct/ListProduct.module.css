@@ -1,0 +1,21 @@
+.list_product {
+  background: white;
+}
+
+.list_product {
+  margin-top: 30px;
+}
+
+.listproduct_format_product_icon {
+  height: 60px;
+}
+
+.listproduct_remove_icon {
+  cursor: pointer;
+}
+
+.listproduct_edit_icon {
+  cursor: pointer;
+  width: 15px;
+  margin-left: 10px;
+}
